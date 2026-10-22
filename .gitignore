@@ -1,0 +1,11 @@
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+data/
+unsloth_compiled_cache/
+*.gguf
+*.safetensors
+*.bin
+.env
+.env.*

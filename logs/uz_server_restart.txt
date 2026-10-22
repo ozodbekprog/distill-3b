@@ -1,0 +1,1 @@
+/home/tony/Documents/Default Project/uz-llm-lab/tools/llama-vulkan/bin/llama-server -m /home/tony/Documents/Default Project/slm-orchestrator/models/uz/uz.gguf --host 127.0.0.1 --port 8105 -c 4096 -t 8 -fa auto --parallel 1 -ngl 20 -ot token_embd.weight=CPU,output.weight=CPU
